@@ -42,6 +42,6 @@
 
 
 
-У кого есть аккаунт и понравились мои проекты
-https://github.com/ovsyannykov?tab=repositories
+У кого есть аккаунт и понравились
+[мои проекты](https://github.com/ovsyannykov?tab=repositories)
 поставьте, пожалуйста, им по звёздочке.
