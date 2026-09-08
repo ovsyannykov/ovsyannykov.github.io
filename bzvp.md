@@ -42,8 +42,7 @@
 
 Также рекомендую установить и изучить:
 
-[TacticMedAid](https://play.google.com/store/apps/details?id=app.TacticMedAid)
-- раздел MARCH
+- [TacticMedAid](https://play.google.com/store/apps/details?id=app.TacticMedAid) - раздел MARCH
 
 - [Міни посібник](https://play.google.com/store/apps/details?id=mil.dsst.deminerhandbook)
 
